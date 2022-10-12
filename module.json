@@ -3,14 +3,14 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.0.8",
+    "version": "2.0.26",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3.3"
+      "version": "7.4"
     }
   },
   "variants": [
@@ -26,49 +26,56 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.5.3"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.8.0"
+            "requires": "1.9.0"
           }
         },
         {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.4.2"
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.1"
           }
         },
         {
@@ -76,7 +83,13 @@
           "module": "retrofit",
           "version": {
             "requires": "2.9.0"
-          }
+          },
+          "excludes": [
+            {
+              "group": "com.squareup.okhttp3",
+              "module": "okhttp"
+            }
+          ]
         },
         {
           "group": "com.squareup.retrofit2",
@@ -107,13 +120,6 @@
           }
         },
         {
-          "group": "com.google.android.material",
-          "module": "material",
-          "version": {
-            "requires": "1.6.1"
-          }
-        },
-        {
           "group": "com.pusher",
           "module": "pusher-java-client",
           "version": {
@@ -138,14 +144,14 @@
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.5.2"
+            "requires": "1.6.4"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.5.2"
+            "requires": "1.6.4"
           }
         },
         {
@@ -156,22 +162,50 @@
           }
         },
         {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-ktx",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "com.github.luongvo",
+          "module": "iOS-SwitchView",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.8.aar",
-          "url": "inthegametv-2.0.8.aar",
-          "size": 1928415,
-          "sha512": "e512cc991855116424b878e7fa7c02ff4848d63257c45acdb83fdf3263bf52d5e9a86b05f1611c03360e8ae98d9f4be4db009997838872f98d79445058ffcb09",
-          "sha256": "c1bf22c611eba3c1686b4947ff99284e8a92c5f03850bf96fc1a2e863dc640c1",
-          "sha1": "2c9dd99b4ff295e1f3a870063e9a4d1621256c3c",
-          "md5": "dc1cc92053d03d10ec80f1a00401f925"
+          "name": "inthegametv-2.0.26.aar",
+          "url": "inthegametv-2.0.26.aar",
+          "size": 3043435,
+          "sha512": "7da124929d6b5a2debe6d3dc661f1193d1e4c70180aad81fff3bac9d71e12cc14693060887ad321b07b646d1c837c6bcd99a2a5f3b3e0d29c964b3bf32c18b50",
+          "sha256": "c7ecb67a9b9d96799afa585372a579df356ca6c7934703db96a6423b40c4b2fe",
+          "sha1": "bf7c9367f71401092292808568c2d5cd9556e5bd",
+          "md5": "f165cac3abe56f5aa83365ae19f691bf"
         }
       ]
     },
@@ -187,49 +221,56 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.5.3"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.6.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.8.0"
+            "requires": "1.9.0"
           }
         },
         {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.4.2"
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.1"
           }
         },
         {
@@ -237,7 +278,13 @@
           "module": "retrofit",
           "version": {
             "requires": "2.9.0"
-          }
+          },
+          "excludes": [
+            {
+              "group": "com.squareup.okhttp3",
+              "module": "okhttp"
+            }
+          ]
         },
         {
           "group": "com.squareup.retrofit2",
@@ -268,13 +315,6 @@
           }
         },
         {
-          "group": "com.google.android.material",
-          "module": "material",
-          "version": {
-            "requires": "1.6.1"
-          }
-        },
-        {
           "group": "com.pusher",
           "module": "pusher-java-client",
           "version": {
@@ -299,14 +339,14 @@
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.5.2"
+            "requires": "1.6.4"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.5.2"
+            "requires": "1.6.4"
           }
         },
         {
@@ -317,22 +357,78 @@
           }
         },
         {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-ktx",
+          "version": {
+            "requires": "2.4.3"
+          }
+        },
+        {
+          "group": "com.github.luongvo",
+          "module": "iOS-SwitchView",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
+          }
+        },
+        {
+          "group": "InthegameTVDemo",
+          "module": "storket",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-core",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-dash",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-ui",
+          "version": {
+            "requires": "2.18.1"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.8.aar",
-          "url": "inthegametv-2.0.8.aar",
-          "size": 1928415,
-          "sha512": "e512cc991855116424b878e7fa7c02ff4848d63257c45acdb83fdf3263bf52d5e9a86b05f1611c03360e8ae98d9f4be4db009997838872f98d79445058ffcb09",
-          "sha256": "c1bf22c611eba3c1686b4947ff99284e8a92c5f03850bf96fc1a2e863dc640c1",
-          "sha1": "2c9dd99b4ff295e1f3a870063e9a4d1621256c3c",
-          "md5": "dc1cc92053d03d10ec80f1a00401f925"
+          "name": "inthegametv-2.0.26.aar",
+          "url": "inthegametv-2.0.26.aar",
+          "size": 3043435,
+          "sha512": "7da124929d6b5a2debe6d3dc661f1193d1e4c70180aad81fff3bac9d71e12cc14693060887ad321b07b646d1c837c6bcd99a2a5f3b3e0d29c964b3bf32c18b50",
+          "sha256": "c7ecb67a9b9d96799afa585372a579df356ca6c7934703db96a6423b40c4b2fe",
+          "sha1": "bf7c9367f71401092292808568c2d5cd9556e5bd",
+          "md5": "f165cac3abe56f5aa83365ae19f691bf"
         }
       ]
     }
