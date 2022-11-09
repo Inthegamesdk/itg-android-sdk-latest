@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.0.35",
+    "version": "2.0.39",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -82,7 +82,7 @@
           "group": "com.github.Inthegamesdk",
           "module": "androidStorket",
           "version": {
-            "requires": "1.0.2"
+            "requires": "1.0.3"
           }
         },
         {
@@ -183,13 +183,6 @@
           }
         },
         {
-          "group": "com.github.luongvo",
-          "module": "iOS-SwitchView",
-          "version": {
-            "requires": "1.0.2"
-          }
-        },
-        {
           "group": "androidx.multidex",
           "module": "multidex",
           "version": {
@@ -227,13 +220,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.35.aar",
-          "url": "inthegametv-2.0.35.aar",
-          "size": 3375880,
-          "sha512": "a623630597576779e28b1555dd26f4dc89d98e4dfcae12f3833b38590f703d46645e9b89957fa030b57bbbc9813b3aeca43339ea409b5c04b62b30d61f8cc9ec",
-          "sha256": "c15e5c173dc1db2b8ed3eaf5936cacc0792cf289a072f9d56263b92507d37464",
-          "sha1": "660ffa1ff0d37e8e089eb3b913fd51dabb1e347b",
-          "md5": "c4b2cc4da118caa4bc6fd32dbe6aaf9c"
+          "name": "inthegametv-2.0.39.aar",
+          "url": "inthegametv-2.0.39.aar",
+          "size": 3409473,
+          "sha512": "2b3742fd9703592ea089dbd2fad2af574adf17aa99e987c49dc6538a109b2c863f84e2d23d43ff8fe2d5cb09bbb96601515fcfc8b2717f66a6fce86cbdbf1cff",
+          "sha256": "11a65e95af6cf5cbb8caba91b7bdc377fb180e8165441b4d382cd07410b932ac",
+          "sha1": "76d37a65d68fd46b145ade4826b10ac658d41711",
+          "md5": "622cfe73969fbd39492f3097f6e619ef"
         }
       ]
     },
@@ -305,7 +298,7 @@
           "group": "com.github.Inthegamesdk",
           "module": "androidStorket",
           "version": {
-            "requires": "1.0.2"
+            "requires": "1.0.3"
           }
         },
         {
@@ -406,13 +399,6 @@
           }
         },
         {
-          "group": "com.github.luongvo",
-          "module": "iOS-SwitchView",
-          "version": {
-            "requires": "1.0.2"
-          }
-        },
-        {
           "group": "androidx.multidex",
           "module": "multidex",
           "version": {
@@ -450,13 +436,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.35.aar",
-          "url": "inthegametv-2.0.35.aar",
-          "size": 3375880,
-          "sha512": "a623630597576779e28b1555dd26f4dc89d98e4dfcae12f3833b38590f703d46645e9b89957fa030b57bbbc9813b3aeca43339ea409b5c04b62b30d61f8cc9ec",
-          "sha256": "c15e5c173dc1db2b8ed3eaf5936cacc0792cf289a072f9d56263b92507d37464",
-          "sha1": "660ffa1ff0d37e8e089eb3b913fd51dabb1e347b",
-          "md5": "c4b2cc4da118caa4bc6fd32dbe6aaf9c"
+          "name": "inthegametv-2.0.39.aar",
+          "url": "inthegametv-2.0.39.aar",
+          "size": 3409473,
+          "sha512": "2b3742fd9703592ea089dbd2fad2af574adf17aa99e987c49dc6538a109b2c863f84e2d23d43ff8fe2d5cb09bbb96601515fcfc8b2717f66a6fce86cbdbf1cff",
+          "sha256": "11a65e95af6cf5cbb8caba91b7bdc377fb180e8165441b4d382cd07410b932ac",
+          "sha1": "76d37a65d68fd46b145ade4826b10ac658d41711",
+          "md5": "622cfe73969fbd39492f3097f6e619ef"
         }
       ]
     }
