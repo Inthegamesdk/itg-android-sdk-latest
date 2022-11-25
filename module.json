@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.0.49",
+    "version": "2.0.54",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -23,6 +23,13 @@
       },
       "dependencies": [
         {
+          "group": "com.github.Inthegamesdk",
+          "module": "androidStorket",
+          "version": {
+            "requires": "1.0.7"
+          }
+        },
+        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
@@ -204,13 +211,6 @@
           }
         },
         {
-          "group": "com.github.Inthegamesdk",
-          "module": "androidStorket",
-          "version": {
-            "requires": "1.0.4"
-          }
-        },
-        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -220,13 +220,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.49.aar",
-          "url": "inthegametv-2.0.49.aar",
-          "size": 3552435,
-          "sha512": "61b7cf64f5a229d606bb885c6a735d59d9fec911d692c3d3ae93f3f5fdb0034261b81c1d60584f75ad1e0021c5e491125f086f3a3528ba006892563cacd110d3",
-          "sha256": "13cc21b6a020840180fd088def7e2a98a0a9443239c6de5ba95f35fd5f648819",
-          "sha1": "8c6cc31a65b9a80d95cd72b333c2c1656b848819",
-          "md5": "ed6f33367a314d25431440d3e76a0f56"
+          "name": "inthegametv-2.0.54.aar",
+          "url": "inthegametv-2.0.54.aar",
+          "size": 3576602,
+          "sha512": "5b7eccd7447dbbf6e1d472696ff6101dd58ed21e465d50766d59623892490b64b0f99e10ad97400c70820e1407bd2c1ad3fd052f33f2a791eade4e7c0c7f3944",
+          "sha256": "ce286cd41be5cb94a051a50d0f530478ad98cd52c27631859619ac0b2200af63",
+          "sha1": "a752229f765ed9c391886bd2f5c2cd17ad141eeb",
+          "md5": "8e31c96f47d9e594bea2a5c45590d257"
         }
       ]
     },
@@ -239,6 +239,13 @@
       },
       "dependencies": [
         {
+          "group": "com.github.Inthegamesdk",
+          "module": "androidStorket",
+          "version": {
+            "requires": "1.0.7"
+          }
+        },
+        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
@@ -420,13 +427,6 @@
           }
         },
         {
-          "group": "com.github.Inthegamesdk",
-          "module": "androidStorket",
-          "version": {
-            "requires": "1.0.4"
-          }
-        },
-        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -436,13 +436,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.0.49.aar",
-          "url": "inthegametv-2.0.49.aar",
-          "size": 3552435,
-          "sha512": "61b7cf64f5a229d606bb885c6a735d59d9fec911d692c3d3ae93f3f5fdb0034261b81c1d60584f75ad1e0021c5e491125f086f3a3528ba006892563cacd110d3",
-          "sha256": "13cc21b6a020840180fd088def7e2a98a0a9443239c6de5ba95f35fd5f648819",
-          "sha1": "8c6cc31a65b9a80d95cd72b333c2c1656b848819",
-          "md5": "ed6f33367a314d25431440d3e76a0f56"
+          "name": "inthegametv-2.0.54.aar",
+          "url": "inthegametv-2.0.54.aar",
+          "size": 3576602,
+          "sha512": "5b7eccd7447dbbf6e1d472696ff6101dd58ed21e465d50766d59623892490b64b0f99e10ad97400c70820e1407bd2c1ad3fd052f33f2a791eade4e7c0c7f3944",
+          "sha256": "ce286cd41be5cb94a051a50d0f530478ad98cd52c27631859619ac0b2200af63",
+          "sha1": "a752229f765ed9c391886bd2f5c2cd17ad141eeb",
+          "md5": "8e31c96f47d9e594bea2a5c45590d257"
         }
       ]
     }
