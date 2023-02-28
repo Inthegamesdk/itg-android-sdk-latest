@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -86,6 +86,13 @@
           }
         },
         {
+          "group": "androidx.swiperefreshlayout",
+          "module": "swiperefreshlayout",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
           "group": "com.squareup.retrofit2",
           "module": "retrofit",
           "version": {
@@ -227,13 +234,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.0.aar",
-          "url": "inthegametv-2.1.0.aar",
-          "size": 4569750,
-          "sha512": "1528f2f8f2e5d9e32302ef764c90b4591e53428a31f397a1867716f3899ef96859dedeefe3a3dd636403119da2a7bebe9e5a3ec1820f03911495f6f9b006256d",
-          "sha256": "19c1151f0203a14048021bc391c638d4f3823805287aede1eefb22506495c456",
-          "sha1": "cf2fdd0a57194f25e8dd28599319025554332a64",
-          "md5": "7a840c3b1f17af21c96af9b9eabeaa3c"
+          "name": "inthegametv-2.1.1.aar",
+          "url": "inthegametv-2.1.1.aar",
+          "size": 4575448,
+          "sha512": "abe2c6891d08f27c983b1ba9ed4e2c311b101132555ab4ef12ca85c942a3c20f8fe250a614762150f0e3e1dda061ccc3bce5425380233e00131f6fa427cfcd88",
+          "sha256": "1a6a2688683bc17eb3946e47ceec9fc679752c9394dc320d4362a9a68687219f",
+          "sha1": "893c8f116d102f7fe76d7c9e5a7831e152974c3e",
+          "md5": "e6098ddd25d2851babcaf465768d0de6"
         }
       ]
     },
@@ -316,6 +323,13 @@
           }
         },
         {
+          "group": "androidx.swiperefreshlayout",
+          "module": "swiperefreshlayout",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
           "group": "com.squareup.retrofit2",
           "module": "retrofit",
           "version": {
@@ -453,24 +467,17 @@
           "version": {
             "requires": "7.3.1"
           }
-        },
-        {
-          "group": "androidx.swiperefreshlayout",
-          "module": "swiperefreshlayout",
-          "version": {
-            "requires": "1.1.0"
-          }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.0.aar",
-          "url": "inthegametv-2.1.0.aar",
-          "size": 4569750,
-          "sha512": "1528f2f8f2e5d9e32302ef764c90b4591e53428a31f397a1867716f3899ef96859dedeefe3a3dd636403119da2a7bebe9e5a3ec1820f03911495f6f9b006256d",
-          "sha256": "19c1151f0203a14048021bc391c638d4f3823805287aede1eefb22506495c456",
-          "sha1": "cf2fdd0a57194f25e8dd28599319025554332a64",
-          "md5": "7a840c3b1f17af21c96af9b9eabeaa3c"
+          "name": "inthegametv-2.1.1.aar",
+          "url": "inthegametv-2.1.1.aar",
+          "size": 4575448,
+          "sha512": "abe2c6891d08f27c983b1ba9ed4e2c311b101132555ab4ef12ca85c942a3c20f8fe250a614762150f0e3e1dda061ccc3bce5425380233e00131f6fa427cfcd88",
+          "sha256": "1a6a2688683bc17eb3946e47ceec9fc679752c9394dc320d4362a9a68687219f",
+          "sha1": "893c8f116d102f7fe76d7c9e5a7831e152974c3e",
+          "md5": "e6098ddd25d2851babcaf465768d0de6"
         }
       ]
     }
