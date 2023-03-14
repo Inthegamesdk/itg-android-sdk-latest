@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -230,17 +230,45 @@
           "version": {
             "requires": "7.3.1"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.3.aar",
-          "url": "inthegametv-2.1.3.aar",
-          "size": 4583912,
-          "sha512": "5d620fd4df753709942744c11b8b7eb59620a2ee35f12632e9bc402173cfd8b04767200aa057a214d784504da452be591c36f36a144edadb639d177a996dfba3",
-          "sha256": "883cee91eff7fada44024220046f1495306dbd16979bd5a1fb270b0e8c625505",
-          "sha1": "19f91f8c24ab3b1e3fb7768eb8cf8bf0c7a8509a",
-          "md5": "18cbd2e29f38c7d16512fda2e1984792"
+          "name": "inthegametv-2.1.4.aar",
+          "url": "inthegametv-2.1.4.aar",
+          "size": 4724936,
+          "sha512": "07c7e5e8e7c65653318ed224576249fe9818337ae4d83dea8dc612820fcaa87187267f04739e2a21fb55d10242a5b1ddd890ab0e9b2c91339853b0eb0c7512a3",
+          "sha256": "a0a73dc339e15f3fb42b2d1e0f20d9b6fa08001c29a2e725b46fa7035b21cd3e",
+          "sha1": "f8f525b4e60fde3f15a3f8d686c4d6ea02151660",
+          "md5": "fe427682a1e911966b192b5ee1f6d7b5"
         }
       ]
     },
@@ -467,17 +495,45 @@
           "version": {
             "requires": "7.3.1"
           }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.3.aar",
-          "url": "inthegametv-2.1.3.aar",
-          "size": 4583912,
-          "sha512": "5d620fd4df753709942744c11b8b7eb59620a2ee35f12632e9bc402173cfd8b04767200aa057a214d784504da452be591c36f36a144edadb639d177a996dfba3",
-          "sha256": "883cee91eff7fada44024220046f1495306dbd16979bd5a1fb270b0e8c625505",
-          "sha1": "19f91f8c24ab3b1e3fb7768eb8cf8bf0c7a8509a",
-          "md5": "18cbd2e29f38c7d16512fda2e1984792"
+          "name": "inthegametv-2.1.4.aar",
+          "url": "inthegametv-2.1.4.aar",
+          "size": 4724936,
+          "sha512": "07c7e5e8e7c65653318ed224576249fe9818337ae4d83dea8dc612820fcaa87187267f04739e2a21fb55d10242a5b1ddd890ab0e9b2c91339853b0eb0c7512a3",
+          "sha256": "a0a73dc339e15f3fb42b2d1e0f20d9b6fa08001c29a2e725b46fa7035b21cd3e",
+          "sha1": "f8f525b4e60fde3f15a3f8d686c4d6ea02151660",
+          "md5": "fe427682a1e911966b192b5ee1f6d7b5"
         }
       ]
     }
