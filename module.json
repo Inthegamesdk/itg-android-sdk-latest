@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,28 +33,28 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.4"
+            "requires": "1.5.5"
           }
         },
         {
@@ -75,14 +75,14 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.8.0"
           }
         },
         {
@@ -123,7 +123,7 @@
           "group": "com.github.bumptech.glide",
           "module": "glide",
           "version": {
-            "requires": "4.13.2"
+            "requires": "4.14.2"
           }
         },
         {
@@ -172,21 +172,21 @@
           "group": "com.squareup.okio",
           "module": "okio",
           "version": {
-            "requires": "3.0.0"
+            "requires": "3.2.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.4.3"
+            "requires": "2.5.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-ktx",
           "version": {
-            "requires": "2.4.3"
+            "requires": "2.5.0"
           }
         },
         {
@@ -207,21 +207,21 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
@@ -262,13 +262,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.4.aar",
-          "url": "inthegametv-2.1.4.aar",
-          "size": 4724936,
-          "sha512": "07c7e5e8e7c65653318ed224576249fe9818337ae4d83dea8dc612820fcaa87187267f04739e2a21fb55d10242a5b1ddd890ab0e9b2c91339853b0eb0c7512a3",
-          "sha256": "a0a73dc339e15f3fb42b2d1e0f20d9b6fa08001c29a2e725b46fa7035b21cd3e",
-          "sha1": "f8f525b4e60fde3f15a3f8d686c4d6ea02151660",
-          "md5": "fe427682a1e911966b192b5ee1f6d7b5"
+          "name": "inthegametv-2.1.5.aar",
+          "url": "inthegametv-2.1.5.aar",
+          "size": 4856957,
+          "sha512": "dc9364cab092f7abd726b485e8f9a414eb91f9ffd56b521a1c3f7bba731a1751063d8930df1bdc6fe7918bdaa79d8116c3bf57ae5b7336b2daa52fa31a86c4fb",
+          "sha256": "b42f183a7021106d20a44f68591565625c8a9065ae8c0c8110ef41b83a6d2d21",
+          "sha1": "509830cad0e67c1fcdba4ef89f3150e9b1b3d74e",
+          "md5": "ef8250ba0f23faa62609d7cbf5be775d"
         }
       ]
     },
@@ -284,7 +284,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-parcelize-runtime",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
@@ -298,28 +298,28 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.4"
+            "requires": "1.5.5"
           }
         },
         {
@@ -340,14 +340,14 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.5.1"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.8.0"
           }
         },
         {
@@ -388,7 +388,7 @@
           "group": "com.github.bumptech.glide",
           "module": "glide",
           "version": {
-            "requires": "4.13.2"
+            "requires": "4.14.2"
           }
         },
         {
@@ -437,21 +437,21 @@
           "group": "com.squareup.okio",
           "module": "okio",
           "version": {
-            "requires": "3.0.0"
+            "requires": "3.2.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.4.3"
+            "requires": "2.5.0"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-ktx",
           "version": {
-            "requires": "2.4.3"
+            "requires": "2.5.0"
           }
         },
         {
@@ -472,21 +472,21 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.1"
+            "requires": "2.18.4"
           }
         },
         {
@@ -527,13 +527,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.4.aar",
-          "url": "inthegametv-2.1.4.aar",
-          "size": 4724936,
-          "sha512": "07c7e5e8e7c65653318ed224576249fe9818337ae4d83dea8dc612820fcaa87187267f04739e2a21fb55d10242a5b1ddd890ab0e9b2c91339853b0eb0c7512a3",
-          "sha256": "a0a73dc339e15f3fb42b2d1e0f20d9b6fa08001c29a2e725b46fa7035b21cd3e",
-          "sha1": "f8f525b4e60fde3f15a3f8d686c4d6ea02151660",
-          "md5": "fe427682a1e911966b192b5ee1f6d7b5"
+          "name": "inthegametv-2.1.5.aar",
+          "url": "inthegametv-2.1.5.aar",
+          "size": 4856957,
+          "sha512": "dc9364cab092f7abd726b485e8f9a414eb91f9ffd56b521a1c3f7bba731a1751063d8930df1bdc6fe7918bdaa79d8116c3bf57ae5b7336b2daa52fa31a86c4fb",
+          "sha256": "b42f183a7021106d20a44f68591565625c8a9065ae8c0c8110ef41b83a6d2d21",
+          "sha1": "509830cad0e67c1fcdba4ef89f3150e9b1b3d74e",
+          "md5": "ef8250ba0f23faa62609d7cbf5be775d"
         }
       ]
     }
