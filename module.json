@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.9",
+    "version": "2.1.10",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -262,13 +262,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.9.aar",
-          "url": "inthegametv-2.1.9.aar",
-          "size": 5140179,
-          "sha512": "b817e47aba7bd0d8a8fddb0996b26dcada9fb21afe2c57e23f344baf0ccc9157281904a8d4644243e5982ab3d79e75750d4f88c68604181f8d2229f65fc7b14b",
-          "sha256": "c21c38f983e1ff45a34f079fca1e7c559494bf8f9553eda4b3c2d92e6301c261",
-          "sha1": "34a61cfb922a92c022cf5f45f8df9134da4a61a1",
-          "md5": "7fb3810d4de12ee01590009ca4ccd6a6"
+          "name": "inthegametv-2.1.10.aar",
+          "url": "inthegametv-2.1.10.aar",
+          "size": 5107768,
+          "sha512": "bd71c119067d492ae8ccdc12efb68221bf83aaf97196fa3753f4116628144cdcb6a2697e3c26f3ac4b6a178829c489a5208ec852357b425be6f5a2bc4d8a14ad",
+          "sha256": "30d2dfb38bb6dd38826714ad80b3a306158b760566735789960d10da4b380ebb",
+          "sha1": "bfc2584c43722255294a9370635c99f55281581a",
+          "md5": "d93025c58f485439616f85c28898f8ef"
         }
       ]
     },
@@ -527,13 +527,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.9.aar",
-          "url": "inthegametv-2.1.9.aar",
-          "size": 5140179,
-          "sha512": "b817e47aba7bd0d8a8fddb0996b26dcada9fb21afe2c57e23f344baf0ccc9157281904a8d4644243e5982ab3d79e75750d4f88c68604181f8d2229f65fc7b14b",
-          "sha256": "c21c38f983e1ff45a34f079fca1e7c559494bf8f9553eda4b3c2d92e6301c261",
-          "sha1": "34a61cfb922a92c022cf5f45f8df9134da4a61a1",
-          "md5": "7fb3810d4de12ee01590009ca4ccd6a6"
+          "name": "inthegametv-2.1.10.aar",
+          "url": "inthegametv-2.1.10.aar",
+          "size": 5107768,
+          "sha512": "bd71c119067d492ae8ccdc12efb68221bf83aaf97196fa3753f4116628144cdcb6a2697e3c26f3ac4b6a178829c489a5208ec852357b425be6f5a2bc4d8a14ad",
+          "sha256": "30d2dfb38bb6dd38826714ad80b3a306158b760566735789960d10da4b380ebb",
+          "sha1": "bfc2584c43722255294a9370635c99f55281581a",
+          "md5": "d93025c58f485439616f85c28898f8ef"
         }
       ]
     }
