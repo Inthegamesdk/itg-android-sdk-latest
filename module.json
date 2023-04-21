@@ -3,14 +3,14 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.13",
+    "version": "2.1.14",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "7.5"
     }
   },
   "variants": [
@@ -54,21 +54,21 @@
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.5"
+            "requires": "1.5.6"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.9.0"
+            "requires": "1.10.0"
           }
         },
         {
@@ -179,14 +179,14 @@
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.5.0"
+            "requires": "2.5.1"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-ktx",
           "version": {
-            "requires": "2.5.0"
+            "requires": "2.5.1"
           }
         },
         {
@@ -207,68 +207,68 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.13.aar",
-          "url": "inthegametv-2.1.13.aar",
-          "size": 5116241,
-          "sha512": "5dbe8d8b41856c846b751d2b3522c4ba1597912d97bc6bb6114b8b27f5a44adf6e5ef5e7906f6f8907f712405b7fe72e8908cae6f13c36a1c6adf0d32ea0d923",
-          "sha256": "9dd18d5cc5e2a835f1639976ea7e5fa2672149962ceb11ecd7121004c9edcd58",
-          "sha1": "b1cbe6420fa292afd13d997b15bd5e69c0147e8d",
-          "md5": "102547919b459078ce640b5f710e0043"
+          "name": "inthegametv-2.1.14.aar",
+          "url": "inthegametv-2.1.14.aar",
+          "size": 5121029,
+          "sha512": "33a0e1284ee93b58e3a25e284b03ecc56114b8abc7ba49d4a20e8baf71eeb778866a1ef2eda86f5f516a9309d703fb6ec2e4ff82b48c6ed3024e6f864b12263c",
+          "sha256": "b2187f0dcd6629ee6d1d3fcfecbfb44675d74aca53f9aecc7d32af5cd477fb42",
+          "sha1": "abb429afd691d23fc0367b5ca6d4acff933ef84f",
+          "md5": "07906e79429446c4552660a36cf9eed6"
         }
       ]
     },
@@ -319,21 +319,21 @@
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.5.5"
+            "requires": "1.5.6"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.9.0"
+            "requires": "1.10.0"
           }
         },
         {
@@ -444,14 +444,14 @@
           "group": "androidx.room",
           "module": "room-runtime",
           "version": {
-            "requires": "2.5.0"
+            "requires": "2.5.1"
           }
         },
         {
           "group": "androidx.room",
           "module": "room-ktx",
           "version": {
-            "requires": "2.5.0"
+            "requires": "2.5.1"
           }
         },
         {
@@ -472,68 +472,68 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.4"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.1"
+            "requires": "7.4.1"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.13.aar",
-          "url": "inthegametv-2.1.13.aar",
-          "size": 5116241,
-          "sha512": "5dbe8d8b41856c846b751d2b3522c4ba1597912d97bc6bb6114b8b27f5a44adf6e5ef5e7906f6f8907f712405b7fe72e8908cae6f13c36a1c6adf0d32ea0d923",
-          "sha256": "9dd18d5cc5e2a835f1639976ea7e5fa2672149962ceb11ecd7121004c9edcd58",
-          "sha1": "b1cbe6420fa292afd13d997b15bd5e69c0147e8d",
-          "md5": "102547919b459078ce640b5f710e0043"
+          "name": "inthegametv-2.1.14.aar",
+          "url": "inthegametv-2.1.14.aar",
+          "size": 5121029,
+          "sha512": "33a0e1284ee93b58e3a25e284b03ecc56114b8abc7ba49d4a20e8baf71eeb778866a1ef2eda86f5f516a9309d703fb6ec2e4ff82b48c6ed3024e6f864b12263c",
+          "sha256": "b2187f0dcd6629ee6d1d3fcfecbfb44675d74aca53f9aecc7d32af5cd477fb42",
+          "sha1": "abb429afd691d23fc0367b5ca6d4acff933ef84f",
+          "md5": "07906e79429446c4552660a36cf9eed6"
         }
       ]
     }
