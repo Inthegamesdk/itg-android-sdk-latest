@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.1.16",
+    "version": "2.1.17",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -262,13 +262,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.16.aar",
-          "url": "inthegametv-2.1.16.aar",
-          "size": 5105629,
-          "sha512": "4cfffffb9e32a6b9931e8756dd346b616dcb7fa263c7634ca25298513b18c05215743093b26669f3cb219cba2e76acf16bb3b4ede15aa31609e36c07c9fc3c0e",
-          "sha256": "b460d1438f9fbee54d2c283c0e2d2ca1c79d6938e00464fca7aa127ed949de19",
-          "sha1": "0798bb1967ecab7bece942fbeda657238af1e7c1",
-          "md5": "7e41914fce9c25e2dbc8e3cafb659d84"
+          "name": "inthegametv-2.1.17.aar",
+          "url": "inthegametv-2.1.17.aar",
+          "size": 5104824,
+          "sha512": "1777a60775ac11b6426370751dcec7b7eedc383e335899b019aaee32b18c68d2f81c217e5be70bdd7fec075d639e757bd3b0c7de9e3290878b3dae7fe1c967e6",
+          "sha256": "a54532eead27c39fe64c5eabfa28d45308074332c637f0ed7af27aa5f6b7f3a5",
+          "sha1": "896b5e9abe7e250d3bef06e3ea03ef445af55c26",
+          "md5": "b32a9cf29b243d3f15c525d5130a5e5c"
         }
       ]
     },
@@ -527,13 +527,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.1.16.aar",
-          "url": "inthegametv-2.1.16.aar",
-          "size": 5105629,
-          "sha512": "4cfffffb9e32a6b9931e8756dd346b616dcb7fa263c7634ca25298513b18c05215743093b26669f3cb219cba2e76acf16bb3b4ede15aa31609e36c07c9fc3c0e",
-          "sha256": "b460d1438f9fbee54d2c283c0e2d2ca1c79d6938e00464fca7aa127ed949de19",
-          "sha1": "0798bb1967ecab7bece942fbeda657238af1e7c1",
-          "md5": "7e41914fce9c25e2dbc8e3cafb659d84"
+          "name": "inthegametv-2.1.17.aar",
+          "url": "inthegametv-2.1.17.aar",
+          "size": 5104824,
+          "sha512": "1777a60775ac11b6426370751dcec7b7eedc383e335899b019aaee32b18c68d2f81c217e5be70bdd7fec075d639e757bd3b0c7de9e3290878b3dae7fe1c967e6",
+          "sha256": "a54532eead27c39fe64c5eabfa28d45308074332c637f0ed7af27aa5f6b7f3a5",
+          "sha1": "896b5e9abe7e250d3bef06e3ea03ef445af55c26",
+          "md5": "b32a9cf29b243d3f15c525d5130a5e5c"
         }
       ]
     }
