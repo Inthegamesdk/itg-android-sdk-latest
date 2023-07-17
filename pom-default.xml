@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.syncedapps</groupId>
   <artifactId>inthegametv</artifactId>
-  <version>2.3.0-rn</version>
+  <version>2.3.0-rn-01</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
