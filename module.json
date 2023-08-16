@@ -3,14 +3,14 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.2.1",
+    "version": "2.3.3",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.5"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -226,6 +226,34 @@
           }
         },
         {
+          "group": "com.google.android.exoplayer",
+          "module": "extension-leanback",
+          "version": {
+            "requires": "2.18.7"
+          }
+        },
+        {
+          "group": "androidx.leanback",
+          "module": "leanback",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.kaltura.player",
+          "module": "tvplayer",
+          "version": {
+            "requires": "4.29.0"
+          }
+        },
+        {
+          "group": "com.github.MackHartley",
+          "module": "RoundedProgressBar",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -263,13 +291,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.2.1.aar",
-          "url": "inthegametv-2.2.1.aar",
-          "size": 5143207,
-          "sha512": "a7b7a1095336bda049ba37f0757642326d5d67f990d441451065b57cad19531fe44bb08d2996d59caf1b68252d4378ab33b448a88a9dfbfadc78526627bbc7bd",
-          "sha256": "0be111929754912c4cafb66cea8f0dd2ed3b4889365e8f1b7aca37594368a646",
-          "sha1": "806c8bc2aa0f8f87e43c482a03f330635922b473",
-          "md5": "36c3ac5d29e7382b5e82debfd5a9a0dd"
+          "name": "inthegametv-2.3.3.aar",
+          "url": "inthegametv-2.3.3.aar",
+          "size": 5489428,
+          "sha512": "35c75dee7c0476fb70487eb5eb54e62409d877e6e4b5b3764245c251d70b478ce1f496ea96d9bd25a654fb20f914659a79f0bf1f7d659af79c553d4d77fe0dc7",
+          "sha256": "2b0e1212734fe3865ab1a4c3bfc27bf7753607dca47481c23fa707971eb2dbda",
+          "sha1": "75b3eee331b847829b2842c81aa98ccd50471aae",
+          "md5": "69f54e6d3f64888767df8186a127ea21"
         }
       ]
     },
@@ -492,6 +520,34 @@
           }
         },
         {
+          "group": "com.google.android.exoplayer",
+          "module": "extension-leanback",
+          "version": {
+            "requires": "2.18.7"
+          }
+        },
+        {
+          "group": "androidx.leanback",
+          "module": "leanback",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.kaltura.player",
+          "module": "tvplayer",
+          "version": {
+            "requires": "4.29.0"
+          }
+        },
+        {
+          "group": "com.github.MackHartley",
+          "module": "RoundedProgressBar",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -529,13 +585,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.2.1.aar",
-          "url": "inthegametv-2.2.1.aar",
-          "size": 5143207,
-          "sha512": "a7b7a1095336bda049ba37f0757642326d5d67f990d441451065b57cad19531fe44bb08d2996d59caf1b68252d4378ab33b448a88a9dfbfadc78526627bbc7bd",
-          "sha256": "0be111929754912c4cafb66cea8f0dd2ed3b4889365e8f1b7aca37594368a646",
-          "sha1": "806c8bc2aa0f8f87e43c482a03f330635922b473",
-          "md5": "36c3ac5d29e7382b5e82debfd5a9a0dd"
+          "name": "inthegametv-2.3.3.aar",
+          "url": "inthegametv-2.3.3.aar",
+          "size": 5489428,
+          "sha512": "35c75dee7c0476fb70487eb5eb54e62409d877e6e4b5b3764245c251d70b478ce1f496ea96d9bd25a654fb20f914659a79f0bf1f7d659af79c553d4d77fe0dc7",
+          "sha256": "2b0e1212734fe3865ab1a4c3bfc27bf7753607dca47481c23fa707971eb2dbda",
+          "sha1": "75b3eee331b847829b2842c81aa98ccd50471aae",
+          "md5": "69f54e6d3f64888767df8186a127ea21"
         }
       ]
     }
