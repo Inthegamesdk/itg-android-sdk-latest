@@ -3,24 +3,23 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.3.10",
+    "version": "2.1.27",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "7.5"
     }
   },
   "variants": [
     {
-      "name": "releaseVariantReleaseApiPublication",
+      "name": "releaseApiElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-api"
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
@@ -34,42 +33,42 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.5.6"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.7.2"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.10.1"
+            "requires": "1.10.0"
           }
         },
         {
@@ -83,7 +82,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.9.0"
+            "requires": "1.8.0"
           }
         },
         {
@@ -208,49 +207,21 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.7"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.7"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.7"
-          }
-        },
-        {
-          "group": "com.google.android.exoplayer",
-          "module": "extension-leanback",
-          "version": {
-            "requires": "2.18.7"
-          }
-        },
-        {
-          "group": "androidx.leanback",
-          "module": "leanback",
-          "version": {
-            "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "com.kaltura.player",
-          "module": "tvplayer",
-          "version": {
-            "requires": "4.29.0"
-          }
-        },
-        {
-          "group": "com.github.MackHartley",
-          "module": "RoundedProgressBar",
-          "version": {
-            "requires": "3.0.0"
+            "requires": "2.18.5"
           }
         },
         {
@@ -291,30 +262,29 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.10.aar",
-          "url": "inthegametv-2.3.10.aar",
-          "size": 5628598,
-          "sha512": "681a02ff25288ba1b39daf9bdb50735cc8ebcca35ef38ddd9a176c16e64195545746cb6afb999c6493073c214cb599f3797156fb1508b5e3828cc00f31fd0dd7",
-          "sha256": "6a207432071e77e08407b93b2ddf8728d7e4ce4e469819579bbe3cdc40dd19e7",
-          "sha1": "5689b7fae910042a2e2591563c0dc89063aabf8d",
-          "md5": "1b9d11fabe71c81b0a2f556051191d73"
+          "name": "inthegametv-2.1.27.aar",
+          "url": "inthegametv-2.1.27.aar",
+          "size": 5142155,
+          "sha512": "1f6a947dbef313309ba77540a487747a8964ff19f87b20577b18d8fb3277cf638d285aa70e832cf0b79a5f654d3e2dc92578aee21538bdd17b5573437e778543",
+          "sha256": "5520aeb9d11716520f08969ba55812a072dfade75f4a18c811c000259248fe6a",
+          "sha1": "40fdaf15ee49b48f7ea87552538f0d81889272aa",
+          "md5": "ec570a202e1a691cfac5123d53381c96"
         }
       ]
     },
     {
-      "name": "releaseVariantReleaseRuntimePublication",
+      "name": "releaseRuntimeElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-runtime"
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-parcelize-runtime",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
@@ -328,42 +298,42 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.21"
+            "requires": "1.8.10"
           }
         },
         {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.5.6"
           }
         },
         {
           "group": "androidx.activity",
           "module": "activity-ktx",
           "version": {
-            "requires": "1.7.2"
+            "requires": "1.7.0"
           }
         },
         {
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.10.1"
+            "requires": "1.10.0"
           }
         },
         {
@@ -377,7 +347,7 @@
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.9.0"
+            "requires": "1.8.0"
           }
         },
         {
@@ -502,49 +472,21 @@
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-core",
           "version": {
-            "requires": "2.18.7"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-dash",
           "version": {
-            "requires": "2.18.7"
+            "requires": "2.18.5"
           }
         },
         {
           "group": "com.google.android.exoplayer",
           "module": "exoplayer-ui",
           "version": {
-            "requires": "2.18.7"
-          }
-        },
-        {
-          "group": "com.google.android.exoplayer",
-          "module": "extension-leanback",
-          "version": {
-            "requires": "2.18.7"
-          }
-        },
-        {
-          "group": "androidx.leanback",
-          "module": "leanback",
-          "version": {
-            "requires": "1.0.0"
-          }
-        },
-        {
-          "group": "com.kaltura.player",
-          "module": "tvplayer",
-          "version": {
-            "requires": "4.29.0"
-          }
-        },
-        {
-          "group": "com.github.MackHartley",
-          "module": "RoundedProgressBar",
-          "version": {
-            "requires": "3.0.0"
+            "requires": "2.18.5"
           }
         },
         {
@@ -585,13 +527,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.10.aar",
-          "url": "inthegametv-2.3.10.aar",
-          "size": 5628598,
-          "sha512": "681a02ff25288ba1b39daf9bdb50735cc8ebcca35ef38ddd9a176c16e64195545746cb6afb999c6493073c214cb599f3797156fb1508b5e3828cc00f31fd0dd7",
-          "sha256": "6a207432071e77e08407b93b2ddf8728d7e4ce4e469819579bbe3cdc40dd19e7",
-          "sha1": "5689b7fae910042a2e2591563c0dc89063aabf8d",
-          "md5": "1b9d11fabe71c81b0a2f556051191d73"
+          "name": "inthegametv-2.1.27.aar",
+          "url": "inthegametv-2.1.27.aar",
+          "size": 5142155,
+          "sha512": "1f6a947dbef313309ba77540a487747a8964ff19f87b20577b18d8fb3277cf638d285aa70e832cf0b79a5f654d3e2dc92578aee21538bdd17b5573437e778543",
+          "sha256": "5520aeb9d11716520f08969ba55812a072dfade75f4a18c811c000259248fe6a",
+          "sha1": "40fdaf15ee49b48f7ea87552538f0d81889272aa",
+          "md5": "ec570a202e1a691cfac5123d53381c96"
         }
       ]
     }
