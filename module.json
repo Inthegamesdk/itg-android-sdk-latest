@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.3.12",
+    "version": "2.3.13",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -52,6 +52,13 @@
           }
         },
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.21"
+          }
+        },
+        {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
@@ -254,6 +261,27 @@
           }
         },
         {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-dash",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-ui",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -291,13 +319,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.12.aar",
-          "url": "inthegametv-2.3.12.aar",
-          "size": 5707212,
-          "sha512": "b6154f10614b908ecb26c0947bb6af942c276bb10f6c7ae4921e257b4b1946ea54ec287c485f645f824da470b50ad4a17cdba0de880a01484c4aa7457b5c77ba",
-          "sha256": "54b24820a3b29170bf41fac4af7e925ae8bc541d7fedb1d8d384355269eac8f1",
-          "sha1": "c5aa4db399441fd03db681599d17866ea7178d9e",
-          "md5": "e5ea291a4491ea3562f868814c1b8f12"
+          "name": "inthegametv-2.3.13.aar",
+          "url": "inthegametv-2.3.13.aar",
+          "size": 5813093,
+          "sha512": "851c6a7c766f9193d9b7ac655eeb63e37e6c53875d0d15c2b397355e8117d82bf76881d0a2186b995258295f94f32f973e2fa03bc76616d15a5d11a54ba2bdc8",
+          "sha256": "fd6d47692072be124ba59952f27d257741f9c72245d8dce24fc8369d42e27cd1",
+          "sha1": "bfa968c0271a286d9ca061d6fbbb89778ebc4050",
+          "md5": "0bd529c1b3a189eddc3f985942d85f45"
         }
       ]
     },
@@ -346,6 +374,13 @@
           }
         },
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.21"
+          }
+        },
+        {
           "group": "androidx.fragment",
           "module": "fragment-ktx",
           "version": {
@@ -548,6 +583,27 @@
           }
         },
         {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-dash",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-ui",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -585,13 +641,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.12.aar",
-          "url": "inthegametv-2.3.12.aar",
-          "size": 5707212,
-          "sha512": "b6154f10614b908ecb26c0947bb6af942c276bb10f6c7ae4921e257b4b1946ea54ec287c485f645f824da470b50ad4a17cdba0de880a01484c4aa7457b5c77ba",
-          "sha256": "54b24820a3b29170bf41fac4af7e925ae8bc541d7fedb1d8d384355269eac8f1",
-          "sha1": "c5aa4db399441fd03db681599d17866ea7178d9e",
-          "md5": "e5ea291a4491ea3562f868814c1b8f12"
+          "name": "inthegametv-2.3.13.aar",
+          "url": "inthegametv-2.3.13.aar",
+          "size": 5813093,
+          "sha512": "851c6a7c766f9193d9b7ac655eeb63e37e6c53875d0d15c2b397355e8117d82bf76881d0a2186b995258295f94f32f973e2fa03bc76616d15a5d11a54ba2bdc8",
+          "sha256": "fd6d47692072be124ba59952f27d257741f9c72245d8dce24fc8369d42e27cd1",
+          "sha1": "bfa968c0271a286d9ca061d6fbbb89778ebc4050",
+          "md5": "0bd529c1b3a189eddc3f985942d85f45"
         }
       ]
     }
