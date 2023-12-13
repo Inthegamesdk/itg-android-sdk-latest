@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.3.17",
+    "version": "2.3.18",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -319,13 +319,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.17.aar",
-          "url": "inthegametv-2.3.17.aar",
-          "size": 5804096,
-          "sha512": "6d5f6ac75f96cd43c7d957894b6fae0cd4a7385f3e621f6941d2f6390bc9f6ff7ad5bbfb1998692d83cd65bd98b386b4dff6738c60df832a52fdc94308950b55",
-          "sha256": "f8af2b7b6c3f057f72520a7425723a455f3c33ec1598c575adb4f70197ce90c8",
-          "sha1": "7bb5e2e19ecf3b50de8aca1d37f39246dbd29b6a",
-          "md5": "0086a2fdd7cd92cb78373616e60bd31f"
+          "name": "inthegametv-2.3.18.aar",
+          "url": "inthegametv-2.3.18.aar",
+          "size": 5798472,
+          "sha512": "faca54c6d4b48350621d6ba1e73159b16cd37596884416e6f84df75509f28584f5cace1f066064176489f0d76026c1e42bd3be5bcc43207d075f928e5bd8032e",
+          "sha256": "e8edf03bb4079373a96c4b346fd31e2d68fa11dfe286f64daee9ce213b465279",
+          "sha1": "449755bd6f77708586d18d3c814095b3f7c8cba2",
+          "md5": "8492b8fa7f61741dd96dd10db181979b"
         }
       ]
     },
@@ -641,13 +641,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.3.17.aar",
-          "url": "inthegametv-2.3.17.aar",
-          "size": 5804096,
-          "sha512": "6d5f6ac75f96cd43c7d957894b6fae0cd4a7385f3e621f6941d2f6390bc9f6ff7ad5bbfb1998692d83cd65bd98b386b4dff6738c60df832a52fdc94308950b55",
-          "sha256": "f8af2b7b6c3f057f72520a7425723a455f3c33ec1598c575adb4f70197ce90c8",
-          "sha1": "7bb5e2e19ecf3b50de8aca1d37f39246dbd29b6a",
-          "md5": "0086a2fdd7cd92cb78373616e60bd31f"
+          "name": "inthegametv-2.3.18.aar",
+          "url": "inthegametv-2.3.18.aar",
+          "size": 5798472,
+          "sha512": "faca54c6d4b48350621d6ba1e73159b16cd37596884416e6f84df75509f28584f5cace1f066064176489f0d76026c1e42bd3be5bcc43207d075f928e5bd8032e",
+          "sha256": "e8edf03bb4079373a96c4b346fd31e2d68fa11dfe286f64daee9ce213b465279",
+          "sha1": "449755bd6f77708586d18d3c814095b3f7c8cba2",
+          "md5": "8492b8fa7f61741dd96dd10db181979b"
         }
       ]
     }
