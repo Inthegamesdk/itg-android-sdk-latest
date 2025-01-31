@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=ITG-v2.6.14_build304_new_env-release.aar" 
+  - FILE="-Dfile=ITG-v2.6.15_build305_new_env-release.aar" 
   - mvn install:install-file $FILE -Dpackaging=aar -DpomFile=pom-default.xml
