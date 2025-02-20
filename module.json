@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.6.18",
+    "version": "2.6.19",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -15,12 +15,11 @@
   },
   "variants": [
     {
-      "name": "releaseVariantReleaseApiPublication",
+      "name": "releaseApiElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-api"
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
@@ -261,27 +260,6 @@
           }
         },
         {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer-dash",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-ui",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -289,60 +267,66 @@
           }
         },
         {
+          "group": "com.bitmovin.player",
+          "module": "player",
+          "version": {
+            "requires": "3.103.0"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.18.aar",
-          "url": "inthegametv-2.6.18.aar",
-          "size": 4965323,
-          "sha512": "2fcd802729a4d2b46131ff8a701d8adab59b9894143bd88e347c486f272a7f66c10cb1c42ef9cd1a4755456bd0afa3f78ab18da35f773b12b967b643bb3e4fad",
-          "sha256": "32255032e35a4a1ed36d221e0dc620ce4ff2ab8fb03c51c5d8063d2f38ab57e2",
-          "sha1": "746645c7659ffa44e6e8cdcbac75dbe717a488cb",
-          "md5": "c676de8214a0262042df2aaf834fe08a"
+          "name": "inthegametv-2.6.19.aar",
+          "url": "inthegametv-2.6.19.aar",
+          "size": 4963314,
+          "sha512": "be556aac2aa378ef8e2e9b92c7dfec19f2ab90e46326f8c9369b2a1a99b630c99ca0bff4e43f26acb216ac7a41c680081c482f2aad3cc8cda785a2db9c3a86aa",
+          "sha256": "37b299ab5544920c17ea41331c9aa245acc797166ebd4dcd7a70b4fd506e3e76",
+          "sha1": "1cd2377aae1742ba0d57cf3058de12f3070009b8",
+          "md5": "619fece6c97503336b6dabf4e010bf6a"
         }
       ]
     },
     {
-      "name": "releaseVariantReleaseRuntimePublication",
+      "name": "releaseRuntimeElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-runtime"
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
@@ -590,27 +574,6 @@
           }
         },
         {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer-dash",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-ui",
-          "version": {
-            "requires": "1.1.1"
-          }
-        },
-        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -618,50 +581,79 @@
           }
         },
         {
+          "group": "com.bitmovin.player",
+          "module": "player",
+          "version": {
+            "requires": "3.103.0"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.4.1"
+            "requires": "8.1.1"
           }
         }
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.18.aar",
-          "url": "inthegametv-2.6.18.aar",
-          "size": 4965323,
-          "sha512": "2fcd802729a4d2b46131ff8a701d8adab59b9894143bd88e347c486f272a7f66c10cb1c42ef9cd1a4755456bd0afa3f78ab18da35f773b12b967b643bb3e4fad",
-          "sha256": "32255032e35a4a1ed36d221e0dc620ce4ff2ab8fb03c51c5d8063d2f38ab57e2",
-          "sha1": "746645c7659ffa44e6e8cdcbac75dbe717a488cb",
-          "md5": "c676de8214a0262042df2aaf834fe08a"
+          "name": "inthegametv-2.6.19.aar",
+          "url": "inthegametv-2.6.19.aar",
+          "size": 4963314,
+          "sha512": "be556aac2aa378ef8e2e9b92c7dfec19f2ab90e46326f8c9369b2a1a99b630c99ca0bff4e43f26acb216ac7a41c680081c482f2aad3cc8cda785a2db9c3a86aa",
+          "sha256": "37b299ab5544920c17ea41331c9aa245acc797166ebd4dcd7a70b4fd506e3e76",
+          "sha1": "1cd2377aae1742ba0d57cf3058de12f3070009b8",
+          "md5": "619fece6c97503336b6dabf4e010bf6a"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "inthegametv-2.6.19-sources.jar",
+          "url": "inthegametv-2.6.19-sources.jar",
+          "size": 917645,
+          "sha512": "c1a85d43ecd1b274b4141fb61c65d9c66cbab48eb7d493a055f062922bd420bd0ee5197ad0f16a798b67a8e6730ee95bc038c7608ce62a122d0efeb64f361a44",
+          "sha256": "eec2c47730800ca1f30c0f3b6e5d353461539b5234d713413c44e25092bea8c2",
+          "sha1": "fdf7599bb83702e02a3a4fddb12c4b73f7588825",
+          "md5": "259d6e51de67f447ad23f62a27d5d749"
         }
       ]
     }
