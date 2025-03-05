@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.syncedapps</groupId>
   <artifactId>inthegametv</artifactId>
-  <version>2.6.19</version>
+  <version>2.6.20</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -217,15 +217,27 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.xYinKio</groupId>
-      <artifactId>ArcCircleProgressBar</artifactId>
-      <version>0.07-alpha</version>
+      <groupId>androidx.media3</groupId>
+      <artifactId>media3-exoplayer</artifactId>
+      <version>1.4.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.bitmovin.player</groupId>
-      <artifactId>player</artifactId>
-      <version>3.103.0</version>
+      <groupId>androidx.media3</groupId>
+      <artifactId>media3-exoplayer-dash</artifactId>
+      <version>1.4.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.media3</groupId>
+      <artifactId>media3-ui</artifactId>
+      <version>1.4.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.xYinKio</groupId>
+      <artifactId>ArcCircleProgressBar</artifactId>
+      <version>0.07-alpha</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
