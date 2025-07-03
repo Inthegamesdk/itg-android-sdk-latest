@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.6.22",
+    "version": "2.6.23",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -325,13 +325,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.22.aar",
-          "url": "inthegametv-2.6.22.aar",
-          "size": 5018948,
-          "sha512": "56d5725dc158827172e643ee5a3b66656cf82e94acaf931a9e2dc06a6c45b9ce9d6c9b80a1b7bcdc20911693f42bb9e2320135af43dc45839ab9e718c2f71ba1",
-          "sha256": "9ea25ba653637f4c51730c63f9fda0955d3ea549087d11376921c66061003fcf",
-          "sha1": "c2391f4dd587ac4dfc1bca99fe7c84266d58328d",
-          "md5": "f5723788ff7c20b708f14bc4c42745fc"
+          "name": "inthegametv-2.6.23.aar",
+          "url": "inthegametv-2.6.23.aar",
+          "size": 3489281,
+          "sha512": "5990cb97c3f7d24f1b97749ea4bfe2207e99368b8de94a0a01e77204eed5e2609a53496641e8ab9b8ee0e24e873df733e4fb7826f2fbfac0329b2726862751eb",
+          "sha256": "df2dd43568bf027475cde26e2449281e75079321e384d62b57457209b902f394",
+          "sha1": "24bd113445cb2dc9c82d6ec6ddf75033a9b8401a",
+          "md5": "659ae6d07caa523ce8950d18dbe06d37"
         }
       ]
     },
@@ -653,13 +653,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.22.aar",
-          "url": "inthegametv-2.6.22.aar",
-          "size": 5018948,
-          "sha512": "56d5725dc158827172e643ee5a3b66656cf82e94acaf931a9e2dc06a6c45b9ce9d6c9b80a1b7bcdc20911693f42bb9e2320135af43dc45839ab9e718c2f71ba1",
-          "sha256": "9ea25ba653637f4c51730c63f9fda0955d3ea549087d11376921c66061003fcf",
-          "sha1": "c2391f4dd587ac4dfc1bca99fe7c84266d58328d",
-          "md5": "f5723788ff7c20b708f14bc4c42745fc"
+          "name": "inthegametv-2.6.23.aar",
+          "url": "inthegametv-2.6.23.aar",
+          "size": 3489281,
+          "sha512": "5990cb97c3f7d24f1b97749ea4bfe2207e99368b8de94a0a01e77204eed5e2609a53496641e8ab9b8ee0e24e873df733e4fb7826f2fbfac0329b2726862751eb",
+          "sha256": "df2dd43568bf027475cde26e2449281e75079321e384d62b57457209b902f394",
+          "sha1": "24bd113445cb2dc9c82d6ec6ddf75033a9b8401a",
+          "md5": "659ae6d07caa523ce8950d18dbe06d37"
         }
       ]
     },
@@ -675,13 +675,13 @@
       },
       "files": [
         {
-          "name": "inthegametv-2.6.22-sources.jar",
-          "url": "inthegametv-2.6.22-sources.jar",
-          "size": 929837,
-          "sha512": "3435edb95315cb2e75377d975cc390e22ea896d54e88ebbfd188887aaa7840e256de8cb24f7f3f966b1f3eec79c38618980eba74af9667fc416301eac675703d",
-          "sha256": "a798876e5cde22008d360d2b418bedda26d45aab1657c99bd68cbc2c4f35863d",
-          "sha1": "f9afe8081c1e6aa4071638279a240c303c760e1d",
-          "md5": "106432dad55daaa7551d73369340e161"
+          "name": "inthegametv-2.6.23-sources.jar",
+          "url": "inthegametv-2.6.23-sources.jar",
+          "size": 709107,
+          "sha512": "095c3d2b1abb8dd61e3d7c7e3b0643c7d7bc83800a68b046d4492f2a598feb3abf214e8343d29be285650dfeafee904e60665f20294a08fee40a723667081647",
+          "sha256": "45088dfaa358991b2fc652da17904532a6f7372511752fb6e5a93dc493ac8675",
+          "sha1": "8a00264c2f82e253229415aed4f6d2bc85c28455",
+          "md5": "a7627c26495b5ede376c9d564d9b57b4"
         }
       ]
     }
