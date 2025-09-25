@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.6.31",
+    "version": "2.6.32",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -260,27 +260,6 @@
           }
         },
         {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer-dash",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-ui",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -292,6 +271,13 @@
           "module": "encoder",
           "version": {
             "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "com.bitmovin.player",
+          "module": "player",
+          "version": {
+            "requires": "3.103.0"
           }
         },
         {
@@ -332,13 +318,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.31.aar",
-          "url": "inthegametv-2.6.31.aar",
-          "size": 3474672,
-          "sha512": "a7e1646ef2854c6e6e445c8d51e474236a3f347a221c2fa2c496e36c7222e70b03bc406843a2b8a0ffadedb76820c6123f06149902468b11654855a5f984346e",
-          "sha256": "b807b0212eee9ecc87a08276ffcbb19d5bf7b1317d412da5ac20d1536263d33b",
-          "sha1": "6f3a06e3fef20a1d4644b9132ced13bf87841d1f",
-          "md5": "ba99091f37a13c76b2f1d26e707ccad8"
+          "name": "inthegametv-2.6.32.aar",
+          "url": "inthegametv-2.6.32.aar",
+          "size": 3471898,
+          "sha512": "98c7812f1208842f829f56329d5d431c51d18976b4d9a65a34ea3a8e76b8449f4f4dbd11599265eb691f4eb7e364ab271ac5a440534f83e6478e027afd205cc1",
+          "sha256": "7d4958bc7f98d02c2b859fdc0c98715c54c376f4937f7f138ff117ec2e370941",
+          "sha1": "5e278b04b9c34bf5e3f474c3d22bc69b2b372a0b",
+          "md5": "a295774b8df9796643eba2c7780dfd82"
         }
       ]
     },
@@ -595,27 +581,6 @@
           }
         },
         {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-exoplayer-dash",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
-          "group": "androidx.media3",
-          "module": "media3-ui",
-          "version": {
-            "requires": "1.4.1"
-          }
-        },
-        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -627,6 +592,13 @@
           "module": "encoder",
           "version": {
             "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "com.bitmovin.player",
+          "module": "player",
+          "version": {
+            "requires": "3.103.0"
           }
         },
         {
@@ -667,13 +639,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.31.aar",
-          "url": "inthegametv-2.6.31.aar",
-          "size": 3474672,
-          "sha512": "a7e1646ef2854c6e6e445c8d51e474236a3f347a221c2fa2c496e36c7222e70b03bc406843a2b8a0ffadedb76820c6123f06149902468b11654855a5f984346e",
-          "sha256": "b807b0212eee9ecc87a08276ffcbb19d5bf7b1317d412da5ac20d1536263d33b",
-          "sha1": "6f3a06e3fef20a1d4644b9132ced13bf87841d1f",
-          "md5": "ba99091f37a13c76b2f1d26e707ccad8"
+          "name": "inthegametv-2.6.32.aar",
+          "url": "inthegametv-2.6.32.aar",
+          "size": 3471898,
+          "sha512": "98c7812f1208842f829f56329d5d431c51d18976b4d9a65a34ea3a8e76b8449f4f4dbd11599265eb691f4eb7e364ab271ac5a440534f83e6478e027afd205cc1",
+          "sha256": "7d4958bc7f98d02c2b859fdc0c98715c54c376f4937f7f138ff117ec2e370941",
+          "sha1": "5e278b04b9c34bf5e3f474c3d22bc69b2b372a0b",
+          "md5": "a295774b8df9796643eba2c7780dfd82"
         }
       ]
     },
@@ -689,13 +661,13 @@
       },
       "files": [
         {
-          "name": "inthegametv-2.6.31-sources.jar",
-          "url": "inthegametv-2.6.31-sources.jar",
-          "size": 705615,
-          "sha512": "4a2812b36cca6f3e8d933bdcfc063e66edeccf824f4096b74ea7382694b0996b5c09a1aa4b63466085431347e6e0a574f2a827980daedc99beb69fd10c042d0b",
-          "sha256": "4d20a356aeb775731f694f0ef8f0a52b8d0c39c0931f13eb750a9b17576a7e9e",
-          "sha1": "a1b8a666d73170bc032682e39198f907c7673ed0",
-          "md5": "84aba489b631c73b562bebaa526cb905"
+          "name": "inthegametv-2.6.32-sources.jar",
+          "url": "inthegametv-2.6.32-sources.jar",
+          "size": 705499,
+          "sha512": "dec2bf85c0aca78d3732f5c1072dcde50b082b343e16d3c992308edf8b6b10a9c751c38b218df4574317d422fdb0591f5ebf559c28d25dcd5a119652d76bb26e",
+          "sha256": "36e8264afeb46d571658819edfc78240610a383a06bff155343d9e423ff35421",
+          "sha1": "c4aaf847555fa31f1078fc31378cd0d657e6debe",
+          "md5": "a6ee13471fb2a7b1863e8e1b533f5281"
         }
       ]
     }
