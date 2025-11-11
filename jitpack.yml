@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=ITG-v2.6.35_build336_bitmovin_new_env-release.aar" 
+  - FILE="-Dfile=ITG-v2.6.36_build337_bitmovin_new_env-release.aar" 
   - mvn install:install-file $FILE -Dpackaging=aar -DpomFile=pom-default.xml
