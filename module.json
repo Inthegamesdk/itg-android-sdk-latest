@@ -334,11 +334,11 @@
         {
           "name": "inthegametv-2.6.55.aar",
           "url": "inthegametv-2.6.55.aar",
-          "size": 3475241,
-          "sha512": "1d064cfc93452c42f9486fa587868a1d4a84712657028d70910af3f4135193bbc4996bc719d4a75ad6430ec2f697ad2e8c7a98d297bb22a01123480ff7b3dd76",
-          "sha256": "d1a16a7818e5b7327104f37a8d46b8a66f42cace6aaea77d6c76bce4fb0f1781",
-          "sha1": "20cbf96d36556b7c9c422790b85b0d13cb1491d0",
-          "md5": "4af5528c8fc1dd7b533220fdfe14cc43"
+          "size": 3475723,
+          "sha512": "8fc4fd10dfdc1267a9b9cbbabf346a2fd13a020aa30ecc51645e4d828a080023b3989e2ec9aaa2cdd34de5f82e597f308f03857ac1bf52e84e55476543ed2dae",
+          "sha256": "b101b343ab4bb7f2c4494089f627e8985e2e81e4ce7879219f0357cd8c61b3b3",
+          "sha1": "4ad19763780a3b610a2d0438a33a4ea709719ede",
+          "md5": "0ba0ca83d5ea0649fbd629258cbbc9e8"
         }
       ]
     },
@@ -669,11 +669,11 @@
         {
           "name": "inthegametv-2.6.55.aar",
           "url": "inthegametv-2.6.55.aar",
-          "size": 3475241,
-          "sha512": "1d064cfc93452c42f9486fa587868a1d4a84712657028d70910af3f4135193bbc4996bc719d4a75ad6430ec2f697ad2e8c7a98d297bb22a01123480ff7b3dd76",
-          "sha256": "d1a16a7818e5b7327104f37a8d46b8a66f42cace6aaea77d6c76bce4fb0f1781",
-          "sha1": "20cbf96d36556b7c9c422790b85b0d13cb1491d0",
-          "md5": "4af5528c8fc1dd7b533220fdfe14cc43"
+          "size": 3475723,
+          "sha512": "8fc4fd10dfdc1267a9b9cbbabf346a2fd13a020aa30ecc51645e4d828a080023b3989e2ec9aaa2cdd34de5f82e597f308f03857ac1bf52e84e55476543ed2dae",
+          "sha256": "b101b343ab4bb7f2c4494089f627e8985e2e81e4ce7879219f0357cd8c61b3b3",
+          "sha1": "4ad19763780a3b610a2d0438a33a4ea709719ede",
+          "md5": "0ba0ca83d5ea0649fbd629258cbbc9e8"
         }
       ]
     },
@@ -691,11 +691,11 @@
         {
           "name": "inthegametv-2.6.55-sources.jar",
           "url": "inthegametv-2.6.55-sources.jar",
-          "size": 712007,
-          "sha512": "738f1b025e4e96aeef2b39b223e30a290d0525f70592cebc54ad90b35e996555f90a0d2cf2007ce8a248b67663f7beab54d8145487b1097b955731429a590053",
-          "sha256": "09ec93b301bab82b6a25af2203c791d5bbb5b465d76c2844f6fc6cbab2dcc29c",
-          "sha1": "c20fa2701b89b5de8b99c27e0f5b141e9bf45e72",
-          "md5": "128a2bcbd2ca46562aabb05965f95c33"
+          "size": 712001,
+          "sha512": "f1cb1fa18920143c3d5b2f4c203b6a4b90853f0adc6a18fc2035a77c09603b84f11883b6b4047fe41b7225ca42c00e77ba4bb4c26d7bf77de4524efd1fbd875f",
+          "sha256": "2149298c4e374274d906ca280025054e1598c065ea69ce92410f4cb4a98adb3e",
+          "sha1": "96a2901d06aec6a546fcd89b3cd5cb3209d883ea",
+          "md5": "42624085be8a45bb8accf548e1ba7d05"
         }
       ]
     }
