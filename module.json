@@ -260,6 +260,27 @@
           }
         },
         {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-dash",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-ui",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -271,13 +292,6 @@
           "module": "encoder",
           "version": {
             "requires": "1.2.3"
-          }
-        },
-        {
-          "group": "com.bitmovin.player",
-          "module": "player",
-          "version": {
-            "requires": "3.103.0"
           }
         },
         {
@@ -320,11 +334,11 @@
         {
           "name": "inthegametv-2.6.56.aar",
           "url": "inthegametv-2.6.56.aar",
-          "size": 3496575,
-          "sha512": "216216a4dd6d95bb57ba0371bc2dd836f0692d4e7526519431ea39ea1924548e0dd81ed62506890b8f7476ae91276e8988cde7a69b5c0b2210fb66fe1b9aaac1",
-          "sha256": "d475021e0ee27b106fe57693cd501092125a01a2b98ba528c2196929dbbff2ed",
-          "sha1": "ace3d693671af360093e5df3b4407c0a4c9504c9",
-          "md5": "722c71bc90a75c7836ae392b55222fbf"
+          "size": 3488426,
+          "sha512": "82851f374cc66450b20f6c087160001d2524bbe06d7e786c5b5f89fee53c8e4702b1e5768f83ed2930a3731cf85e83e4d9c6e336d6cd88bd8b1dd8a298c3e51b",
+          "sha256": "b5fda0ee8c3f8ef94836d342053c5df9cef0cff56cee4127af4fce03cf213c3a",
+          "sha1": "6915e5efb2d004ffb434f3fe7983d82aa8fe765f",
+          "md5": "e9bb89756e6b0bf2e5ddf919a9c2c7a2"
         }
       ]
     },
@@ -581,6 +595,27 @@
           }
         },
         {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-exoplayer-dash",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.media3",
+          "module": "media3-ui",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
           "group": "com.github.xYinKio",
           "module": "ArcCircleProgressBar",
           "version": {
@@ -592,13 +627,6 @@
           "module": "encoder",
           "version": {
             "requires": "1.2.3"
-          }
-        },
-        {
-          "group": "com.bitmovin.player",
-          "module": "player",
-          "version": {
-            "requires": "3.103.0"
           }
         },
         {
@@ -641,11 +669,11 @@
         {
           "name": "inthegametv-2.6.56.aar",
           "url": "inthegametv-2.6.56.aar",
-          "size": 3496575,
-          "sha512": "216216a4dd6d95bb57ba0371bc2dd836f0692d4e7526519431ea39ea1924548e0dd81ed62506890b8f7476ae91276e8988cde7a69b5c0b2210fb66fe1b9aaac1",
-          "sha256": "d475021e0ee27b106fe57693cd501092125a01a2b98ba528c2196929dbbff2ed",
-          "sha1": "ace3d693671af360093e5df3b4407c0a4c9504c9",
-          "md5": "722c71bc90a75c7836ae392b55222fbf"
+          "size": 3488426,
+          "sha512": "82851f374cc66450b20f6c087160001d2524bbe06d7e786c5b5f89fee53c8e4702b1e5768f83ed2930a3731cf85e83e4d9c6e336d6cd88bd8b1dd8a298c3e51b",
+          "sha256": "b5fda0ee8c3f8ef94836d342053c5df9cef0cff56cee4127af4fce03cf213c3a",
+          "sha1": "6915e5efb2d004ffb434f3fe7983d82aa8fe765f",
+          "md5": "e9bb89756e6b0bf2e5ddf919a9c2c7a2"
         }
       ]
     },
@@ -663,11 +691,11 @@
         {
           "name": "inthegametv-2.6.56-sources.jar",
           "url": "inthegametv-2.6.56-sources.jar",
-          "size": 716791,
-          "sha512": "b5c9c78a7eafdf615fecade8659d89f0a0ae33883943990cce7e47aa40c37c690d2fc67807f64f79893af61f74eb2f3af32933dd97e04d2686ededdba6cc6918",
-          "sha256": "1c9820a0e494ce6f3e495854bf10e011b9f7ba57e719111a24f160fb3c33fee6",
-          "sha1": "e79eb77e34ea6cfd7a76451df9e8246608a34469",
-          "md5": "5a1be4b43d5c9e4d1d5053707a818150"
+          "size": 716813,
+          "sha512": "1c239aedb4c4f9a2c948af39beba8255f3719e3fb90ee495ccdcc859e1aae8c20699c65e1db1676b25d37c9ac00ab81a304bd1a38fab3e0a50e3fe8f9bade804",
+          "sha256": "9e38d433c762364a44d250a5c84c4e7648becb9cd0be8247346dffea4a5255cd",
+          "sha1": "7691dd24d4616bad8e36ad6b2cf2b55cd7d58870",
+          "md5": "99997ed1e16dbd3769cdb3a70c0e360b"
         }
       ]
     }
