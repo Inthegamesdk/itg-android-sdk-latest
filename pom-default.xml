@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.syncedapps</groupId>
   <artifactId>inthegametv</artifactId>
-  <version>2.6.66-bitmovin</version>
+  <version>2.6.67-bitmovin</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
