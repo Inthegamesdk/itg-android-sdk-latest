@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "inthegametv",
-    "version": "2.6.67-bitmovin",
+    "version": "2.6.68-bitmovin",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -318,13 +318,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.67-bitmovin.aar",
-          "url": "inthegametv-2.6.67-bitmovin.aar",
-          "size": 3516614,
-          "sha512": "de05ed178735450ba236c9d77645ce21c8174aee0441571fc099e55ef4c52f6cbb0598e4a9ca932d57b4098bea6caedd0d90d5fa34afc55bb21846dbfb955b70",
-          "sha256": "70e0eb805f8b1efd77f8bff74191417b1847614475217f764e3d4c60853f818f",
-          "sha1": "66c6a363647d3f171b5c413105e126cdcc951fad",
-          "md5": "4ca84335c70293564b8a9645be16136b"
+          "name": "inthegametv-2.6.68-bitmovin.aar",
+          "url": "inthegametv-2.6.68-bitmovin.aar",
+          "size": 3517255,
+          "sha512": "fccaabd0f4725f5b3b72958dbc63dc350f1f62473837bcb1ff63070db16889166f1567e680a39b1ba3eb6059503f3d799fa479c91f8ee58a020811cd1e17e6fc",
+          "sha256": "344607c5dec4f50627d0210b116d07e0a265bd1959dd7ca75d82f0dfb603f380",
+          "sha1": "624a98b92b873e586ac2e0a426c9ba8702e7ba8a",
+          "md5": "fcfd86efb748485b55a47e1446a06005"
         }
       ]
     },
@@ -639,13 +639,13 @@
       ],
       "files": [
         {
-          "name": "inthegametv-2.6.67-bitmovin.aar",
-          "url": "inthegametv-2.6.67-bitmovin.aar",
-          "size": 3516614,
-          "sha512": "de05ed178735450ba236c9d77645ce21c8174aee0441571fc099e55ef4c52f6cbb0598e4a9ca932d57b4098bea6caedd0d90d5fa34afc55bb21846dbfb955b70",
-          "sha256": "70e0eb805f8b1efd77f8bff74191417b1847614475217f764e3d4c60853f818f",
-          "sha1": "66c6a363647d3f171b5c413105e126cdcc951fad",
-          "md5": "4ca84335c70293564b8a9645be16136b"
+          "name": "inthegametv-2.6.68-bitmovin.aar",
+          "url": "inthegametv-2.6.68-bitmovin.aar",
+          "size": 3517255,
+          "sha512": "fccaabd0f4725f5b3b72958dbc63dc350f1f62473837bcb1ff63070db16889166f1567e680a39b1ba3eb6059503f3d799fa479c91f8ee58a020811cd1e17e6fc",
+          "sha256": "344607c5dec4f50627d0210b116d07e0a265bd1959dd7ca75d82f0dfb603f380",
+          "sha1": "624a98b92b873e586ac2e0a426c9ba8702e7ba8a",
+          "md5": "fcfd86efb748485b55a47e1446a06005"
         }
       ]
     },
@@ -661,13 +661,13 @@
       },
       "files": [
         {
-          "name": "inthegametv-2.6.67-bitmovin-sources.jar",
-          "url": "inthegametv-2.6.67-bitmovin-sources.jar",
-          "size": 722075,
-          "sha512": "8fa5d8338dc0b9a782e64c94e7dcb18bfd47dc7a92aa0b1cc0675c1c55c264ab81055628ed40e2fa4a7530cf363c6c2f27123693d9ce50911d5e15ad0c3a673d",
-          "sha256": "f28a63b574b82589d6930ae8124d7cdea2997dadf80d33c08db0aa00a57c2480",
-          "sha1": "a8eb407f21277ffd36aa663864178055844d3999",
-          "md5": "822ad9aa8d93ff1e55ed6dad42f387e9"
+          "name": "inthegametv-2.6.68-bitmovin-sources.jar",
+          "url": "inthegametv-2.6.68-bitmovin-sources.jar",
+          "size": 722219,
+          "sha512": "8e02ddde1f2b67a315f99d17ada70ea6b3a81402dbaf96ca5f5774be1bf40ebf3e8c3e8abe99be40d4fc9acd5b6ec63478b37e474d1e2c42bc8846d7cde6bab4",
+          "sha256": "fd249147e3905d5393dccdc4e134e238b5da262b2acb5a41f696457d5dbef6c7",
+          "sha1": "e4204727601d13a6c1dc395e69d2819b436fce99",
+          "md5": "b89c038203e0d34fa1facc3a212b455a"
         }
       ]
     }
